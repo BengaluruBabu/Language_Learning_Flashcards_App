@@ -109,10 +109,7 @@ This project can be deployed on cloud platforms like AWS or DigitalOcean. Below 
 
 Contributions are welcome! If you would like to contribute, please fork the repository and make changes as you like. Once you’re done, open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out @babu19781a0509@gmail.com
+If you have any questions or suggestions, feel free to reach out at babu19781a0509@gmail.com
